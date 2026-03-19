@@ -106,13 +106,13 @@
           img.p-2(src='@/assets/curso/temas/tema4/imagen3.png', alt='')
         .col-sm-12.col-md-12.col-lg-8
           p Los protocolos de atención al cliente son la manera de fomentar en la organización la forma de actuar frente al cliente, el protocolo debe ser un documento que unifique los conceptos y criterios que lleven a cada colaborador a respetar y prestar una buena atención al cliente.
-          .cajon.color-primario.p-4.mb-4
+          .cajon.color-acento-contenido.p-4.mb-4
             p La importancia que tiene un protocolo de atención y servicio al cliente, describe la forma de actuar de los empleados en la atención al usuario o en el proceso de ventas, este documento detalla los procedimientos de interacción con el cliente, también debe contener los planes de contingencia en caso de que deban reaccionar frente a alguna situación que se presente.
           p Este instrumento es muy importante porque agrupa los criterios y explica el procedimiento que se desea de los colaboradores, la conducta que deben tener con los usuarios o clientes y los procedimientos adecuados con relación a la atención que se quiere brindar en cualquier canal de contacto.
   
       p Las ventajas de tener un protocolo de atención y servicio al cliente, son:
   
-      .row.fondo1.align-items-center.p-3(data-aos="fade-down")
+      .row.fondo2.align-items-center.p-3(data-aos="fade-down")
         .col-lg-12.col-md-12.col-12.px-lg-5.px-4
           .row.justify-content-center.mb-4        
           .tarjetaf.p-4.mb-4
@@ -162,43 +162,43 @@
           ol.lista-ol--cuadro.lista-ol--separador.fa-ol
             li 
               .lista-ol--cuadro__vineta
-                span.texto-azul #[b 1]
+                span #[b 1]
               span.mb-0 Tratar a los demás como quieras ser tratado. 
             li 
               .lista-ol--cuadro__vineta
-                span.texto-azul #[b 2]
+                span #[b 2]
               span.mb-0 Tratar siempre de estar dispuesto a sonreír. 
             li 
               .lista-ol--cuadro__vineta
-                span.texto-azul #[b 3]
+                span #[b 3]
               span.mb-0 Tratar de ser gentil y agradable en el hablar.
             li 
               .lista-ol--cuadro__vineta
-                span.texto-azul #[b 4]
+                span #[b 4]
               span.mb-0 Tratar de estar atentos y saber escuchar.
             li 
               .lista-ol--cuadro__vineta
-                span.texto-azul #[b 5]
+                span #[b 5]
               span.mb-0 Tratar de no discutir, sencillamente de opinar y respetar la opinión de los demás.
             li 
               .lista-ol--cuadro__vineta
-                span.texto-azul #[b 6]
+                span #[b 6]
               span.mb-0 Tratar de cuidar tu puntualidad, es un acto de respeto con el otro. 
             li 
               .lista-ol--cuadro__vineta
-                span.texto-azul #[b 7]
+                span #[b 7]
               span.mb-0 Tratar de ser jovial, colaborador y dinámico. 
             li 
               .lista-ol--cuadro__vineta
-                span.texto-azul #[b 8]
+                span #[b 8]
               span.mb-0 Tratar de guardar para ti tus propias dificultades.
             li 
               .lista-ol--cuadro__vineta
-                span.texto-azul #[b 9]
+                span #[b 9]
               span.mb-0 Tratar de prometer sólo cuando sepas que puedes cumplir.  
             li 
               .lista-ol--cuadro__vineta
-                span.texto-azul #[b 10]
+                span #[b 10]
               span.mb-0 Tratar de decir por favor y no olvidar dar las gracias.
             li 
         .col-6.col-md-6.col-lg-3.d-none.d-lg-block

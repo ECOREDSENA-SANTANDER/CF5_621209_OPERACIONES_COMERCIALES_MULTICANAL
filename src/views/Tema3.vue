@@ -16,7 +16,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-sm-12.col-md-12.col-lg-8
           p Históricamente el hombre ha sido un ser social y necesita comunicarse, porque es importante relacionarse con los demás. La comunicación es un acto que el individuo establece con otro, este contacto le permite dar a conocer su pensamiento y sentimiento. 
-          .cajon.color-primario.p-4.mb-4
+          .cajon.color-secundario.p-4.mb-4
             p Es importante decir que uno de los aspectos fundamentales, es la comunicación asertiva cuyo objetivo es poder expresarse de manera respetuosa, sincera, sencilla y exponiendo lo que se quiere. Para que esto se cumpla es necesario tener la habilidad de hacerlo sin hacer daño a nadie. 
         .col-8.col-md-8.col-lg-4
           img.p-2(src='@/assets/curso/temas/tema3/imagen1.png', alt='')
@@ -30,25 +30,25 @@
         .col-sm-12.col-md-6.col-lg-3.mb-cus
           .tarjeta-avatar
             img.p-3(src='@/assets/curso/temas/tema3/tarava1-1.png')
-            .tarjeta.bgrosado.w-100
+            .tarjeta.bg03.w-100
               .p-4.text-center
                 p.mb-0.text-center Trata de mostrar los deseos o necesidades que una persona anhela, pero siempre de manera educada y honesta.
         .col-sm-12.col-md-6.col-lg-3.mb-cus
           .tarjeta-avatar
             img.p-3(src='@/assets/curso/temas/tema3/tarava1-2.png')
-            .tarjeta.bgrosado.w-100
+            .tarjeta.bg03.w-100
               .p-4.text-center
                 p.mb-0.text-center Se deben evitar los reproches personales, los ataques constantes o recurrir a informaciones hirientes que desacrediten a un individuo.
         .col-sm-12.col-md-6.col-lg-3.mb-cus
           .tarjeta-avatar
             img.p-3(src='@/assets/curso/temas/tema3/tarava1-3.png')
-            .tarjeta.bgrosado.w-100
+            .tarjeta.bg03.w-100
               .p-4.text-center
                 p.mb-0.text-center No es una comunicación pasiva o que impida exponer lo que verdaderamente se desea. La diferencia en este tipo de comunicación es que se expresa con honestidad, respeto y escogiendo las palabras más adecuadas para no generar conflicto.
         .col-sm-12.col-md-6.col-lg-3.mb-cus
           .tarjeta-avatar
             img.p-3(src='@/assets/curso/temas/tema3/tarava1-4.png')
-            .tarjeta.bgrosado.w-100
+            .tarjeta.bg03.w-100
               .p-4.text-center
                 p.mb-0.text-center Busca el equilibrio para manifestar la opinión que uno tiene sin menospreciar a los demás. 
   
@@ -63,22 +63,22 @@
         .col-8.col.md-8.col-lg-4
           img.p-2(src='@/assets/curso/temas/tema3/imagen2.png', alt='')
         .col-sm-12.col-md-12.col-lg-8
-          .row.justify-content-center.align-items-center.mb-2.bgazulclaro.borde-redondo
+          .row.justify-content-center.align-items-center.mb-2.bg01.borde-redondo
             ul.lista-ul.mb-0.p-3
               li.d-flex.mb-0
                 i.fas.fa-check-circle.texto-azul
                 p.mb-0 La escucha activa es muy importante para atender la información y el mensaje que nos transmite la persona con la que se está conversando.
-          .row.justify-content-center.align-items-center.mb-2.bgazulclaro.borde-redondo
+          .row.justify-content-center.align-items-center.mb-2.bg01.borde-redondo
             ul.lista-ul.mb-0.p-3
               li.d-flex.mb-0
                 i.fas.fa-check-circle.texto-azul
                 p.mb-0 Es muy importante hablar en primera persona para exponer lo que uno siente, esto evita echar la culpa de manera constante a alguien, sin asumir también las responsabilidades propias.
-          .row.justify-content-center.align-items-center.mb-2.bgazulclaro.borde-redondo
+          .row.justify-content-center.align-items-center.mb-2.bg01.borde-redondo
             ul.lista-ul.mb-0.p-3
               li.d-flex.mb-0
                 i.fas.fa-check-circle.texto-azul
                 p.mb-0 Nos debemos comunicar sin exponer juicios de valor. No se recomienda en ninguna circunstancia juzgar ni señalar a alguien, ya que eso impide que se pueda poner en práctica una comunicación asertiva.
-          .row.justify-content-center.align-items-center.bgazulclaro.borde-redondo
+          .row.justify-content-center.align-items-center.bg01.borde-redondo
             ul.lista-ul.mb-0.p-3
               li.d-flex.mb-0
                 i.fas.fa-check-circle.texto-azul
@@ -128,7 +128,7 @@
       p.mb-5 Luego de ver el proceso de comunicación y sus elementos compositivos, analicemos las categorías de la comunicación humana, las cuales se dividen en dos: 
   
       .tarjeta--container.row.align-items-center.justify-content-center
-        .col-lg-4.tarjeta.bgazulclaro.p-5
+        .col-lg-4.tarjeta.bg02.p-5.text-white
           .row.justify-content-center.mb-4
             h4.text-center Comunicación verbal
             .col-6
@@ -142,7 +142,7 @@
             li.d-flex.mb-3
               i.fas.fa-check-circle.texto-azul
               p.mb-0 Escrita.
-        .col-lg-4.tarjeta.bgrosado.p-5
+        .col-lg-4.tarjeta.bg04.p-5
           .row.justify-content-center.mb-2
             h4.text-center Comunicación no verbal
             .col-6
@@ -203,7 +203,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-sm-12.col-md-12.col-lg-8
           p Es una herramienta muy efectiva para la Gerencia del Servicio, esta refleja un proceso ordenado de todos los contactos que tiene el cliente con la organización, lo cual se manifiesta con la satisfacción en la prestación del servicio o la insatisfacción del servicio prestado.
-          .cajon.color-primario.p-4.mb-4
+          .cajon.color-secundario.p-4.mb-4
             p Cuando pensamos en los ciclos del servicio nos ponemos en los zapatos del cliente y podemos percibir la calidad de servicio que este recibe. Cada momento de verdad se puede representar gráficamente y la responsabilidad del ciclo del servicio, les corresponde a los empleados y directivos encargados de la prestación del servicio.
           p A continuación, se ilustra un ejemplo de un ciclo basado en la calidad del servicio:
         .col-8.col-md-8.col-lg-4.d-none.d-lg-block

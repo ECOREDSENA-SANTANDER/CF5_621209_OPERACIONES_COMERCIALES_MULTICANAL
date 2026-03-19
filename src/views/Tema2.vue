@@ -10,7 +10,7 @@
       .row.justify-content-center.align-items-center
         .col-8.col.md-8.col-lg-3
           img.p-2(src='@/assets/curso/temas/tema2/imagen1.png', alt='')
-        .col-sm-12.col-md-12.col-lg-5.bgazulclaro.borde-redondo
+        .col-sm-12.col-md-12.col-lg-5.bg01.borde-redondo
           p.mt-3.ps-3.mb-2 Para una correcta atención al cliente, es necesario tener claro:
           ul.lista-ul.mb-0.ps-3
             li.d-flex.mb-0
@@ -115,8 +115,8 @@
         .col-8.col-md-8.col-lg-4
           img.p-2(src='@/assets/curso/temas/tema2/imagen3.png', alt='')
         .col-sm-12.col-md-12.col-lg-8
-          p.p-5.bgazulclaro.borde-redondo.textogrande ¿Qué estimula a un cliente a querer un determinado servicio? 
-          p.p-5.bgazulclaro.borde-redondo.textogrande ¿Qué inspira al cliente a adquirirlo de un determinado proveedor? 
+          p.p-5.bg01.borde-redondo.textogrande ¿Qué estimula a un cliente a querer un determinado servicio? 
+          p.p-5.bg01.borde-redondo.textogrande ¿Qué inspira al cliente a adquirirlo de un determinado proveedor? 
           p Cada cliente tiene sus propias expectativas, pero estas son función de una amplia variedad de factores internos y externos. Veamos a continuación:
   
       .row.fondo1.align-items-center.p-3(data-aos="fade-down")
@@ -163,9 +163,9 @@
         .col-8.col-md-8.col-lg-4
           img.p-2(src='@/assets/curso/temas/tema2/imagen4.png', alt='')
         .col-sm-12.col-md-12.col-lg-8
-          p.bgazuloscuro.borde-redondo.text-center.p-3 Los momentos de verdad son los instantes en los que los clientes y los proveedores se enfrentan. 
+          p.bg02.borde-redondo.text-center.text-white.p-3 Los momentos de verdad son los instantes en los que los clientes y los proveedores se enfrentan. 
           p Y en el servicio al cliente son la secuencia de experiencias buenas y malas que los clientes pasan con una empresa al satisfacer una necesidad. Para una empresa, lo más relevante es el manejo que deben tener los empleados con los clientes. Hay que tener en cuenta que el trato debe ser cuidadoso, donde la prioridad son las necesidades emocionales.
-          .cajon.color-primario.p-4.mb-4
+          .cajon.color-acento-contenido.p-4.mb-4
             p Es una gran oportunidad para la empresa permitir que los clientes califiquen y comenten sobre los productos y servicios que reciben, la empresa puede obtener información directa y específica sobre lo que funciona bien y lo que necesita mejorar. Esto no solo ayuda a mantener la satisfacción del cliente, sino que también puede impulsar la innovación, el desarrollo de mejores soluciones y la rapidez para actuar ante cualquier imprevisto. 
           p Las expectativas de los consumidores comienzan muy altas, por lo que los empleados deben asegurarse de que obtengan lo que necesitan y de la mejor forma posible.
   

@@ -54,7 +54,7 @@
         .col-sm-12.col-md-12.col-lg-6.mb-cus
           .tarjeta-avatar
             img(src='@/assets/curso/temas/tema5/tarava1-1.png')
-            .tarjeta.bgrosado.w-100
+            .tarjeta.bg03.w-100
               .p-5
                 h4.text-center Encuestas cualitativas
                 p Información, encuestas e investigaciones cualitativas. Veamos un ejemplo:
@@ -77,7 +77,7 @@
         .col-sm-12.col-md-12.col-lg-6.mb-cus
           .tarjeta-avatar
             img(src='@/assets/curso/temas/tema5/tarava1-2.png')
-            .tarjeta.bgrosado.w-100
+            .tarjeta.bg01.w-100
               .p-5
                 h4.text-center Encuestas cuantitativas
                 p Este tipo de encuesta está enfocada al análisis de la percepción de un número elevado de clientes, utilizando principalmente encuestas telefónicas o por correo electrónico.
@@ -179,7 +179,7 @@
         .col-8.col-md-8.col-lg-4
           img.p-1(src='@/assets/curso/temas/tema5/imagen6.png', alt='')
         .col-sm-12.col-md-12.col-lg-4
-          p.bgrosado.borde-redondo.p-3 Hay que tener en cuenta que para posicionar un producto en el mercado se debe estudiar si hay demanda, existe mucha información sobre estudio de mercado, este estudio cobra importancia porque analiza la satisfacción del cliente ya que permite averiguar si el producto le puede interesar al cliente objetivo, una pregunta que se debe hacer en este estudio es que precio está dispuesto a pagar el cliente o usuario por el producto o servicio. 
+          p.bg06.borde-redondo.p-3 Hay que tener en cuenta que para posicionar un producto en el mercado se debe estudiar si hay demanda, existe mucha información sobre estudio de mercado, este estudio cobra importancia porque analiza la satisfacción del cliente ya que permite averiguar si el producto le puede interesar al cliente objetivo, una pregunta que se debe hacer en este estudio es que precio está dispuesto a pagar el cliente o usuario por el producto o servicio. 
   
       .mb-5.d-flex.ps-lg-0
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
@@ -188,7 +188,7 @@
   
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10
-          .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5
+          .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5
                 .bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema5/imagen7.png')})`}")
                 .bloque-texto-g__texto.p-4
                   p.mb-0 En la historia reciente las encuestas no son muy bien recibidas ya que, debido a que la norma ISO 9001 obliga a todas las empresas medir la satisfacción del cliente, esto ha obligado a que las empresas envíen por correo la encuesta a los clientes, esta forma de encuesta no es efectiva porque según las estadísticas solamente el 5 % de los encuestados responde las preguntas, son efectivas en el sentido que podemos hacer un análisis y darnos cuenta de aspectos que no hemos tenido en cuenta para la satisfacción del cliente. 
